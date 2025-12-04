@@ -80,10 +80,6 @@ Navigate through different pages using the sidebar:
 - Compare your favorite movies
 - Browse curated top lists
 
-## Screenshots
-
-(Add screenshots of your app here)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -95,4 +91,3 @@ This project is open source and available under the MIT License.
 ## Acknowledgments
 
 - Data scraped from IMDB Top 250
-- Built with ❤️ using Streamlit
